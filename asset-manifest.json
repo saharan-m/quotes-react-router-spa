@@ -3,13 +3,13 @@
     "main.css": "/quotes-react-router-spa/static/css/main.a5aaaefb.chunk.css",
     "main.js": "/quotes-react-router-spa/static/js/main.dd7b6b33.chunk.js",
     "main.js.map": "/quotes-react-router-spa/static/js/main.dd7b6b33.chunk.js.map",
-    "runtime-main.js": "/quotes-react-router-spa/static/js/runtime-main.56ff6d76.js",
-    "runtime-main.js.map": "/quotes-react-router-spa/static/js/runtime-main.56ff6d76.js.map",
+    "runtime-main.js": "/quotes-react-router-spa/static/js/runtime-main.9a199779.js",
+    "runtime-main.js.map": "/quotes-react-router-spa/static/js/runtime-main.9a199779.js.map",
     "static/js/2.e7c7dfed.chunk.js": "/quotes-react-router-spa/static/js/2.e7c7dfed.chunk.js",
     "static/js/2.e7c7dfed.chunk.js.map": "/quotes-react-router-spa/static/js/2.e7c7dfed.chunk.js.map",
     "static/css/3.608b9159.chunk.css": "/quotes-react-router-spa/static/css/3.608b9159.chunk.css",
-    "static/js/3.8eca03c5.chunk.js": "/quotes-react-router-spa/static/js/3.8eca03c5.chunk.js",
-    "static/js/3.8eca03c5.chunk.js.map": "/quotes-react-router-spa/static/js/3.8eca03c5.chunk.js.map",
+    "static/js/3.3ccd6b0a.chunk.js": "/quotes-react-router-spa/static/js/3.3ccd6b0a.chunk.js",
+    "static/js/3.3ccd6b0a.chunk.js.map": "/quotes-react-router-spa/static/js/3.3ccd6b0a.chunk.js.map",
     "static/css/4.50db3174.chunk.css": "/quotes-react-router-spa/static/css/4.50db3174.chunk.css",
     "static/js/4.fec0d46c.chunk.js": "/quotes-react-router-spa/static/js/4.fec0d46c.chunk.js",
     "static/js/4.fec0d46c.chunk.js.map": "/quotes-react-router-spa/static/js/4.fec0d46c.chunk.js.map",
@@ -22,7 +22,7 @@
     "static/js/2.e7c7dfed.chunk.js.LICENSE.txt": "/quotes-react-router-spa/static/js/2.e7c7dfed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56ff6d76.js",
+    "static/js/runtime-main.9a199779.js",
     "static/js/2.e7c7dfed.chunk.js",
     "static/css/main.a5aaaefb.chunk.css",
     "static/js/main.dd7b6b33.chunk.js"
