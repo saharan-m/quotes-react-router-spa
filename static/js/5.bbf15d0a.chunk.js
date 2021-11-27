@@ -1,0 +1,2 @@
+(this["webpackJsonpquotes-react-router-spa"]=this["webpackJsonpquotes-react-router-spa"]||[]).push([[5],{54:function(t,e,s){"use strict";s.r(e);var r=s(21),u=s(0);e.default=function(){return Object(u.jsx)(r.a,{})}}}]);
+//# sourceMappingURL=5.bbf15d0a.chunk.js.map

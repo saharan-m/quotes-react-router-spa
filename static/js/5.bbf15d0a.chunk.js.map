@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/NotFound.js"],"names":["NotFound"],"mappings":"yIAAA,0BAOeA,UAJE,WACb,OAAO,cAAC,IAAD","file":"static/js/5.bbf15d0a.chunk.js","sourcesContent":["import NoQuotesFound from \"../components/quotes/NoQuotesFound\";\n\n\nconst NotFound = ()=>{\n    return <NoQuotesFound/>\n}\n\nexport default NotFound;"],"sourceRoot":""}
