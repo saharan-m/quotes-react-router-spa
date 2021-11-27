@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quotes-react-router-spa/static/css/main.a5aaaefb.chunk.css",
-    "main.js": "/quotes-react-router-spa/static/js/main.c7ef264a.chunk.js",
-    "main.js.map": "/quotes-react-router-spa/static/js/main.c7ef264a.chunk.js.map",
+    "main.js": "/quotes-react-router-spa/static/js/main.dd7b6b33.chunk.js",
+    "main.js.map": "/quotes-react-router-spa/static/js/main.dd7b6b33.chunk.js.map",
     "runtime-main.js": "/quotes-react-router-spa/static/js/runtime-main.56ff6d76.js",
     "runtime-main.js.map": "/quotes-react-router-spa/static/js/runtime-main.56ff6d76.js.map",
     "static/js/2.e7c7dfed.chunk.js": "/quotes-react-router-spa/static/js/2.e7c7dfed.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.56ff6d76.js",
     "static/js/2.e7c7dfed.chunk.js",
     "static/css/main.a5aaaefb.chunk.css",
-    "static/js/main.c7ef264a.chunk.js"
+    "static/js/main.dd7b6b33.chunk.js"
   ]
 }
